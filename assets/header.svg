@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Brian Xu</title>
+  <desc id="desc">Physics, modelling and open source. A navy banner with a geometric wave in muted gold and blue.</desc>
+  <rect width="1200" height="270" rx="16" fill="#132436"/>
+  <g stroke="#294054" stroke-width="1" opacity="0.55">
+    <path d="M740 28V242M800 28V242M860 28V242M920 28V242M980 28V242M1040 28V242M1100 28V242M1160 28V242"/>
+    <path d="M710 55H1175M710 95H1175M710 135H1175M710 175H1175M710 215H1175"/>
+  </g>
+  <path d="M710 146C755 146 755 78 800 78S845 196 890 196S935 74 980 74S1025 172 1070 172S1115 113 1175 113" fill="none" stroke="#d0b681" stroke-width="3.5"/>
+  <path d="M710 172C755 172 755 122 800 122S845 155 890 155S935 103 980 103S1025 141 1070 141S1115 123 1175 123" fill="none" stroke="#789aac" stroke-width="2" opacity="0.8"/>
+  <g fill="#d0b681">
+    <circle cx="800" cy="78" r="5"/><circle cx="890" cy="196" r="5"/><circle cx="980" cy="74" r="5"/><circle cx="1070" cy="172" r="5"/>
+  </g>
+  <rect x="54" y="58" width="36" height="4" rx="2" fill="#d0b681"/>
+  <text x="54" y="137" fill="#f4f1e9" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="400">Brian Xu</text>
+  <text x="57" y="184" fill="#b7c8d5" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">PHYSICS · MODELLING · OPEN SOURCE</text>
+  <text x="57" y="220" fill="#8da5b8" font-family="Arial, Helvetica, sans-serif" font-size="17">University of Oxford  /  Tubby Labs</text>
+</svg>
